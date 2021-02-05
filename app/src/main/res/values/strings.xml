@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameTest</string>
+    <string name="ad_app_id">AdAppId</string>
+    <string name="ad_interst_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
